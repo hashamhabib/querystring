@@ -1,7 +1,3 @@
-// 'use strict';
-
-// exports.decode = exports.parse = require('./decode');
-// exports.encode = exports.stringify = require('./encode');
 
 import decode from './decode';
 import encode from './encode';
